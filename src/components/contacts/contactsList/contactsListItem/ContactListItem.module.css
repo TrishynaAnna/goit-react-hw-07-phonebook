@@ -1,0 +1,22 @@
+.contactListItem{
+    display: block;
+    margin: 0 auto;
+    list-style: none;
+    text-align: left;
+}
+.contactListItemHeadline{
+    font-size: 24px;
+}
+.button {
+    background-color: white;
+    text-transform: uppercase;
+    border: 1px solid #657578;
+    width: 140px;
+    height: 40px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #2b2727;
+    color: white;
+}

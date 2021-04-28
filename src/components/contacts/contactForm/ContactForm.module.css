@@ -1,0 +1,29 @@
+.label {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.input {
+    display: block;
+    margin: 20px 0;
+    width: 250px;
+    height: 40px;
+}
+
+.button {
+    text-transform: uppercase;
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+    width: 250px;
+    cursor: pointer;
+    color: #000;
+    background-color: #fff;
+    border:1px solid #000;
+}
+
+.button:hover{
+    background-color: #2b2727;
+    color: white;
+}
